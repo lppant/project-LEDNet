@@ -1,7 +1,7 @@
 # project-LEDNet
 
 ## Important Note:
-* Model files were too large hence they were removed from canvas code submission 
+* Model files were too large hence they were removed from code submission 
 * Model Files are committed at : 
     * classification/model_originial/densenet.pth -- Original CheXpert dataset
     * classification/model_localized/densenet.pth -- Localized dataset
